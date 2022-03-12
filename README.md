@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @owningplayer
-- 👀 I’m interested in C, Java, mysql, but eventually become a fullstack.
+- 👀 I’m interested in C, Java, mysql, and eventually become a fullstack.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on any projects, as a junior to learn more.
 <!--- 📫 How to reach me:
